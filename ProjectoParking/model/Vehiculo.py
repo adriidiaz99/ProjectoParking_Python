@@ -10,7 +10,7 @@ class Vehiculo:
     def idVehiculo(self):
         return self.__idVehiculo
 
-    @id.setter
+    @idVehiculo.setter
     def idVehiculo(self, idVehiculo):
         self.__idVehiculo = idVehiculo
 
